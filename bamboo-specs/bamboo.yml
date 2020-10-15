@@ -18,5 +18,5 @@ JobNumberOne:
         echo FINISH
   other:
     pbc:
-      image: "sanekkurt/bamboo-agent-sidekick-alpine:latest"
-      size: "XSMALL"
+      image: sanekkurt/bamboo-agent-sidekick-alpine
+      size: XSMALL
