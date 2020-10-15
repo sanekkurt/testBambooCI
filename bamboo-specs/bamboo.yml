@@ -18,5 +18,5 @@ JobNumberOne:
         echo FINISH
   other:
     pbc:
-      image: docker.io/sanekkurt/bamboo-agent-sidekick-alpine
-      size: XSMALL
+      image: "docker.io/sanekkurt/bamboo-agent-sidekick-alpine:latest"
+      size: "XSMALL"
