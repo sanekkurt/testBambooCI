@@ -10,12 +10,12 @@ stages:
       - JobNumberOne
 
 JobNumberOne:
-#  tasks:
-#    - script: |-
-#        #!/bin/sh
-#        date
-#        sleep 120
-#        echo FINISH
+  tasks:
+    - script: |-
+        #!/bin/sh
+        date
+        sleep 120
+        echo FINISH
   other:
     pbc:
       image: "sanekkurt/bamboo-agent-sidekick-alpine:latest"
