@@ -1,4 +1,3 @@
-
 version: 2
 
 plan:
@@ -10,17 +9,13 @@ stages:
   - First stage:
       - JobNumberOne
 
-JobNumberOne :
+JobNumberOne:
   tasks:
-    - checkout:
-        repository: testBambooCI (branch master)
-        force-clean-build: false
-    - script:
-        - |-
-          #!/bin/sh
-          date
-          sleep 120
-          echo FINISH
+    - script: |-
+        #!/bin/sh
+        date
+        sleep 120
+        echo FINISH
   other:
     pbc:
       image: docker.io/sanekkurt/bamboo-agent-sidekick-alpine
