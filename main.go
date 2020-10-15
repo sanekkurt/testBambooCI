@@ -6,7 +6,7 @@ import (
 )
 
 func service() {
-	fmt.Println("Hello from service!")
+	fmt.Println("Hello from service!!")
 }
 
 func main() {

@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aadee77b-45fb-4e42-8077-ce1ac9a20a1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bamboo-specs/bamboo.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testHTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
