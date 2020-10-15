@@ -3,7 +3,7 @@ version: 2
 plan:
   project-key: TEST
   name: second_plan_in_yaml
-  key: YAML
+  key: SEC
 
 stages:
   - First stage:
