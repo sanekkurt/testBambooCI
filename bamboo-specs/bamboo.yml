@@ -16,7 +16,7 @@ JobNumberOne:
         date
         sleep 120
         echo FINISH
-  other:
-    pbc:
-      image: docker.io/sanekkurt/bamboo-agent-sidekick-alpine
-      size: XSMALL
+#  other:
+#    pbc:
+#      image: docker.io/sanekkurt/bamboo-agent-sidekick-alpine
+#      size: XSMALL
