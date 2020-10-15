@@ -1,4 +1,5 @@
 version: 2
+
 plan:
   project-key: TEST
   name: second_plan_in_yaml
@@ -12,13 +13,13 @@ JobNumberOne :
   tasks:
     - checkout:
         repository: testBambooCI (branch master)
-        path: my-path
-        force-clean-build: true
-    - script: |
-        #!/bin/sh
-        date
-        sleep 120
-        echo FINISH
+        force-clean-build: false
+    - script:
+        - |-
+          #!/bin/sh
+          date
+          sleep 120
+          echo FINISH
   other:
     pbc:
       image: docker.io/sanekkurt/bamboo-agent-sidekick-alpine
