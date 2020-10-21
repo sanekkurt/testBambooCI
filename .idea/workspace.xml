@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aadee77b-45fb-4e42-8077-ce1ac9a20a1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bamboo-specs/bamboo.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/bamboo-specs/bamboo.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bamboo-specs/bamboo.yml" beforeDir="false" afterPath="$PROJECT_DIR$/bamboo-specs/bamboo.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../terraform-provider-acloud" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
@@ -93,10 +94,10 @@
     </state>
     <state x="193" y="0" width="1535" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.370.1366.728@0.0.1920.1040" timestamp="1602743474243" />
     <state x="-1229" y="411" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.397.1366.728@-1366.397.1366.728" timestamp="1600590741682" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602742682936">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603080989751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1366.370.1366.728@0.0.1920.1040" timestamp="1602742682936" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1366.370.1366.728@0.0.1920.1040" timestamp="1603080989751" />
     <state width="1877" height="208" key="GridCell.Tab.0.bottom" timestamp="1602507130941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

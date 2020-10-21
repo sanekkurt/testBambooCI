@@ -1,9 +1,9 @@
 version: 2
 
 plan:
-  project-key: TEST
-  name: second_plan_in_yaml
-  key: SEC
+  project-key: UDDO
+  name: bamboo_ea_plan
+  key: EAPL
 
 stages:
   - First stage:
